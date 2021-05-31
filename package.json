@@ -1,0 +1,23 @@
+{
+  "name": "testes-travisci",
+  "version": "1.0.0",
+  "description": "Fazendo Alguns Testes e Usando a Ferramenta Travis Para Executar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nando-Freitas/Testes-TravisCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nando-Freitas/Testes-TravisCI/issues"
+  },
+  "homepage": "https://github.com/Nando-Freitas/Testes-TravisCI#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
